@@ -7,10 +7,10 @@ Experienced Full Stack Developer and Trainer with a robust background in designi
 **Skills:**
 
 - **Languages:** Python 🐍, C/C++ 💻, JavaScript 📜
-- **Frameworks:** Django 🌐, Flask 🌶️
-- **Frontend:** HTML5 📄, CSS3 🎨, React ⚛️, Angular 🅰️
-- **Databases:** MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃
-- **Tools:** Git 🌲, Docker 🐳, Jenkins 🚀, AWS ☁️
+- **Frameworks:** Django 🌐
+- **Frontend:** HTML5 📄, CSS3 🎨
+- **Databases:** MySQL 🐬
+- **Tools:** Git 🌲
 
 ---
 
